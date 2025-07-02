@@ -1,4 +1,3 @@
-readme_content = """
 # Shoe vs Sandal vs Boot Classification
 
 Proyek ini bertujuan untuk melakukan klasifikasi gambar menjadi tiga kategori: **Boot**, **Sandal**, dan **Shoe** menggunakan model CNN (Convolutional Neural Network).

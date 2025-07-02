@@ -29,6 +29,3 @@ Notebook menyediakan contoh inferensi untuk:
 - TensorFlow SavedModel
 
 Visualisasi gambar input dan prediksi juga ditampilkan.
-
----
-"""
